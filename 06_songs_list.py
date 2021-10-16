@@ -39,7 +39,7 @@ violator_songs_dict = {
 }
 
 # распечатайте общее время звучания трех песен: 'Sweetest Perfection', 'Policy of Truth' и 'Blue Dress'
-#   А другие три песни звучат ХХХ минут
+#   А другие три песни звучат ХХХ мину
 
 min_1 = violator_songs_dict['Sweetest Perfection']
 min_2 = violator_songs_dict['Policy of Truth']

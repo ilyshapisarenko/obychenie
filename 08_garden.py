@@ -12,7 +12,7 @@ meadow = ('клевер', 'одуванчик', 'ромашка', 'клевер'
 # meadow_set =
 garden_set = set(garden)
 meadow_set = set(meadow)
-# выведите на консоль все виды цветов
+# выведите на консоль все виды цвето
 all_flower = garden_set | meadow_set
 print(all_flower)
 # выведите на консоль те, которые растут и там и там
